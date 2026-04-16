@@ -6,7 +6,7 @@ Criação e aperfeiçoamento de agentes de IA com NotebookLm
 
 A imagem abaixo demonstra o uso do NotebookLM durante o processo de estudo, incluindo a análise das fontes e a interação com a IA.
 
-![NotebookLM - Caderno de estudo](./Captura de tela de 2026-04-16 17-32-13.png)
+![NotebookLM](./Captura%20de%20tela%20de%202026-04-16%2017-32-13.png)
 
 ## 📌 Contexto e Objetivos
 
